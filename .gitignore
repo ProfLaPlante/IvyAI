@@ -92,6 +92,7 @@ ENV/
 env.bak/
 venv.bak/
 gdrlEnv/
+gdaienv/
 
 # Spyder project settings
 .spyderproject
